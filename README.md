@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sujitsingh19
+- 👋 Hi, I’m @tsquiz
 - 👀 I’m interested in ...web devlopment
 - 🌱 I’m currently learning ...web devlopment
 - 💞️ I’m looking to collaborate on ...
